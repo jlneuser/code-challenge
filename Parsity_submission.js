@@ -1,13 +1,16 @@
 const findSum = function(array) {
-  // your code here - don't forget to return a number!
+  return accumulator + currentValue
 };
 
 const findFrequency = function(array) {
-  // your code here - don't forget to return an object!
+  return findFrequency
 };
 
 const isPalindrome = function(str) {
-  // your code here - don't forget to return a boolean!
+  if (isPalindrome) {
+    return 'true'
+  } else {
+  } return 'false'
 };
 
 const largestPair = function(array) {
